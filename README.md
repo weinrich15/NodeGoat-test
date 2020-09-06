@@ -1,3 +1,3 @@
 # NodeGoat
 
-![](https://github.com/davidCheckmarx/bookstore/workflows/cx/badge.svg)
+![](https://github.com/CheckmarxDev/NodeGoat-test/workflows/cx/badge.svg)
