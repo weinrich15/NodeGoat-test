@@ -1,4 +1,4 @@
-FROM centos:5
+FROM ubuntu:17.10
 ENV WORKDIR /usr/src/app/
 WORKDIR $WORKDIR
 COPY package*.json $WORKDIR
