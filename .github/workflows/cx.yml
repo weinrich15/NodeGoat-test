@@ -10,7 +10,7 @@ jobs:
     name: Checkmarx scan run
     steps:
       - name: Run scan
-        uses: CheckmarxDev/ast-github-action@master
+        uses: CheckmarxDev/ast-github-action@more_engines
         id: scan
         with:
           github_repo_token: ${{ secrets.GITHUB_TOKEN }}
